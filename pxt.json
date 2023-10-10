@@ -1,8 +1,9 @@
 {
-    "name": "Untitled",
+    "name": "MazeOfDeathAndDestruction",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "CLOCK": "github:langusterno/mazeofdestructionandobliviation#master"
     },
     "files": [
         "main.blocks",
